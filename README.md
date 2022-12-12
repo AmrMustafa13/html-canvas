@@ -1,5 +1,1 @@
-# Live Preview 
-
-https://html5-canvas.netlify.app/
-
-OOP Paradigm Used.
+Object-Oriented Programming Paradigm Is Used.
